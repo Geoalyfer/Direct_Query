@@ -1,0 +1,14 @@
+A direct query conecta diretamente ao banco de dados original. 
+  
+Isso quer dizer que a atualização é simultânea com a atualização do banco de dados de origem.
+
+A recomendação é utilizar o Importar banco de dados para que os dados estejam disponíveis no PowerBI
+
+Obter dados / banco de dados / SQL Server / Modo DirectQuery
+
+
+Selecione as tabelas desejados e clique em carregar
+
+
+Os dados das planilhas do banco de dados não estarão disponíveis para visualização no power_BI
+
